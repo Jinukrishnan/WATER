@@ -1,0 +1,42 @@
+.banner{
+    background-image: url(../IMAGES/bg.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.banner{
+    padding-top: 100px;
+   
+}
+.banner h1{
+    font-size: 100px;
+ 
+}
+.banner p{
+    font-size: 20px;
+}
+.btn2{
+    margin-left: 5px;
+    letter-spacing: 2px;
+    border: 2px solid white;
+    background: transparent;
+    color: white;
+   
+}
+.btn2:hover{
+    color: black;
+    background: white;
+}
+
+/* seo-img */
+.seo img{
+    width: 100%;
+    height: auto;
+}
+.seo-para {
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
